@@ -38,7 +38,7 @@ export function Header() {
           <Dropdown.Divider />
           <Dropdown.Item className="text-red-600">Sign out</Dropdown.Item>
         </Dropdown>
-        <Navbar.Toggle />
+        
       </div>
      
     </Navbar>
